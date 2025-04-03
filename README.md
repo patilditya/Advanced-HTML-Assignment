@@ -1,2 +1,2 @@
-# Advanced-HTML-Assignment
-Advanced HTML Assignment
+# Advanced-CSS-Assignment
+Advanced CSS Assignment
